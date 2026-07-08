@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/rayssarrsilva/Space-restaurant/issues"
   },
-  "homepage": "https://github.com/rayssarrsilva/Space-restaurant#readme"
+  "homepage": "https://github.com/rayssarrsilva/Space-restaurant#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.7",
+    "webpack-cli": "^7.2.1"
+  }
 }

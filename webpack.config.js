@@ -7,12 +7,13 @@ export default {
   entry: "./src/index.js",
   output: {
     filename: "main.js",
-    path: path.resolve(import.meta.dirname, "dist"),
+    path: path.resolve(process.cwd(), "dist"),
     clean: true,
   },
   devtool: "eval-source-map",
   devServer: {
     watchFiles: ["./src/template.html"],
+    open: true,
   },
   plugins: [
     new HtmlWebpackPlugin({

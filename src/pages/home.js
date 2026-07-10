@@ -23,12 +23,7 @@ export default function loadHome() {
         Experience handcrafted cosmic meals, interstellar desserts,
         and unforgettable flavors served among the stars.
       </p>
-
-      <div class="hero-buttons">
-        <button class="primary-btn">Explore Menu</button>
-        <button class="secondary-btn">Book a Table</button>
-      </div>
-
+      
       <div class="hero-stats">
 
         <div class="stat-card">

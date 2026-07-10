@@ -4,7 +4,10 @@ export default function loadHome() {
   container.classList.add("home");
 
   const title = document.createElement("h2");
-  title.textContent = "Bem-vindo ao Restaurante da Rayssa";
+  title.textContent = "Welcome to Space Bakery";
+
+  const backGround = document.createElement("img");
+  backGround.src = "./images/space.jpg";
 
   const description = document.createElement("p");
   description.textContent = "Aqui você encontra pratos deliciosos e um ambiente acolhedor.";
@@ -15,7 +18,7 @@ export default function loadHome() {
 
   container.appendChild(title);
   container.appendChild(description);
-  container.appendChild(image);
+  container.appendChild(backGround);
 
   return container;
 }

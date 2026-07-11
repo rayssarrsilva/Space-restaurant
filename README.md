@@ -1,4 +1,4 @@
-# 🚀 Space Bakery
+# Space Bakery
 
 A modern Single Page Application (SPA) inspired by NASA's visual identity, featuring a futuristic space-themed bakery. This project was built as part of **The Odin Project** curriculum to practice modular JavaScript, Webpack, and dynamic DOM manipulation.
 

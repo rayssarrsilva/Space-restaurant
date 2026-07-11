@@ -4,12 +4,11 @@ A modern Single Page Application (SPA) inspired by NASA's visual identity, featu
 
 ---
 
-## 📸 Preview
-
+## Preview
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive landing page
 - NASA-inspired UI design
@@ -22,7 +21,7 @@ A modern Single Page Application (SPA) inspired by NASA's visual identity, featu
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
@@ -32,7 +31,7 @@ A modern Single Page Application (SPA) inspired by NASA's visual identity, featu
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 This project helped me practice:
 
@@ -48,7 +47,7 @@ This project helped me practice:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -80,7 +79,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository:
 
@@ -108,7 +107,7 @@ npm run build
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Practice modular JavaScript
 - Build a SPA without frameworks
@@ -118,7 +117,7 @@ npm run build
 
 ---
 
-## 📖 Acknowledgements
+## Acknowledgements
 
 This project was developed as part of **The Odin Project** curriculum.
 
@@ -126,7 +125,7 @@ https://www.theodinproject.com/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Rayssa Roberta Rodrigues Silva**
 
@@ -135,6 +134,7 @@ https://www.theodinproject.com/
 
 ---
 
-## 📄 License
+##
+ License
 
 This project is licensed under the MIT License.

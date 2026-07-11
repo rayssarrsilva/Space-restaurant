@@ -4,7 +4,8 @@ A modern Single Page Application (SPA) inspired by NASA's visual identity, featu
 
 ---
 
-## Preview
+## Demo
+https://rayssarrsilva.github.io/Space-restaurant/
 
 ---
 

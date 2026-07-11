@@ -23,7 +23,7 @@ body {
 
     background:
         linear-gradient(rgba(7,10,15,.75), rgba(7,10,15,.9)),
-        url("../assets/images/space.jpg") center/cover;
+        url("../assets/gifs/spaceMoving.gif") center/cover;
 
     color: #fff;
 }

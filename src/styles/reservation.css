@@ -6,7 +6,7 @@
     padding:120px 8%;
     background:
         linear-gradient(rgba(7,10,15,.9),rgba(7,10,15,.95)),
-        url("../assets/images/space.jpg");
+        url("../assets/gifs/spaceMoving.gif");
     background-size:cover;
     background-position:center;
     color:white;

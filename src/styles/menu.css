@@ -3,6 +3,10 @@
     padding:120px 8%;
     background:#090b10;
     color:white;
+    background: url(../assets/gifs/spaceMoving.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .menu-header{

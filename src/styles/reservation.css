@@ -4,9 +4,7 @@
     align-items:center;
     justify-content:center;
     padding:120px 8%;
-    background:
-        linear-gradient(rgba(7,10,15,.9),rgba(7,10,15,.95)),
-        url("../assets/gifs/spaceMoving.gif");
+    background: linear-gradient(rgba(2, 7, 8, 0.75), rgba(0, 0, 0, 0.9));
     background-size:cover;
     background-position:center;
     color:white;

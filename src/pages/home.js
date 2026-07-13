@@ -1,5 +1,10 @@
 // home.js
+import createBackground from "../pages/background.js";
+
 export default function loadHome() {
+
+  createBackground();
+
   const home = document.createElement("section");
   home.className = "home";
 
